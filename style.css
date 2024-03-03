@@ -73,6 +73,7 @@ nav ul li:hover{
     font-size: 30px;
     text-align: center;
     padding: 5vh 18vw;
+    text-align: justify;
 }
 .content div{
     text-align: center;
@@ -167,12 +168,13 @@ nav ul li:hover{
     width: 32vw; 
 }
 .cont1-2 .p1{
-    font-size: 25px;
+    font-size: 40px;
     color: #000000;
 }
 .cont1-2 p{
     font-size: 28px;
     padding: 25px 10px;
+    text-align: justify;
 }
 .cont1-2 h2{
     font-size: 50px;
@@ -209,7 +211,7 @@ nav ul li:hover{
 }
 .cont2 .p{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     color:rgb(0, 0, 0);
 }
 .cont2 .cont2-1{
@@ -228,7 +230,7 @@ nav ul li:hover{
     padding: 10px;
 }
 .cont2 .cont2-1 div p{
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
@@ -254,7 +256,7 @@ nav ul li:hover{
     
 }
 .cont3 p{
-    font-size: 20px;   
+    font-size: 25px;   
     padding: 10px 0;
 }
 .cont3 .book{
@@ -290,7 +292,7 @@ nav ul li:hover{
 }
 .cont4 .p{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     color:rgb(0, 0, 0);
 }
 .cont4 .cont4-1{
@@ -361,7 +363,8 @@ nav ul li:hover{
 }
 .cont5 .cont5-1 div *{
     padding: 10px;
-    font-size: 20px;
+    font-size: 22px;
+    text-align: justify;
 }
 .cont5 .cont5-1 div img{
     border-radius: 50%;
@@ -591,7 +594,7 @@ iframe{
     nav {
         flex-direction: column;
         text-align:center;
-        background: rgba(6, 6, 6, 0.8);
+        background: rgba(0, 0, 0, 0.8);
         position: absolute;
         left: 0vw;
         width: 100%;
